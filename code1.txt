@@ -1,0 +1,195 @@
+
+                <div class=" h-full w-full flex flex-wrap">
+                    <div class=" text-center self-center w-full px-4 lg:h-[230px] md:px-2 lg:px-20 md:text-left md:w-6/12 md:flex md:flex-col md:justify-between "> 
+
+                    <h2 class=" font-extrabold text-black text-3xl "> Find High- Potential With 
+                        <span class="block text-[#043A53]">Trust.co</span>
+                    </h2>
+
+                    <p class="text-[#404040] mt-3 md:mt-0">
+                We provide sales teams and professionals with the knowledge, skill
+                and discipline they need to be 10x more successful.
+                    </p>
+
+                    
+                    <div class=" md:px-2 lg:px-4 py-1 bg-white text-[#12141D] rounded-2xl mr-2 hover:bg-blue-400 hover:text-white items-start">
+                        Explore Our Works
+                    </div>
+
+                </div>
+
+                <div class=" w-full h-full md:w-6/12 relative">
+
+                <img src="./assets/Man mobile.png" class=" lg:h-80 md:hidden bg-transparent " style="mix-blend-mode: multiply;" alt="">
+                
+                <img src="./assets/Man mobile.png" class=" hidden md:inline-block md:bg-transparent md:object-contain md:h-full md:w-full " style="mix-blend-mode: multiply;" alt="">
+                </div>
+
+                <div class=" absolute bottom-4 left-12 lg:left-20">
+                    <img src="./assets/Images.png" class=" rounded-full object-cover h-30 w-30 md:w-36 md:h-36 relative" alt="">
+                </div>
+   </header>
+                <section class=" bg-white">
+                    <ul class=" flex px-3 py-5  w-full justify-evenly ">
+
+                        <h6 class=" font-bold text-xl ">Trusted by best seller in the world</h6>
+
+                        <li class=" md:mx-3 lg:mx-4 cursor-pointer"><img src="./assets/Google.png" alt=""></li>
+                        <li class=" md:mx-3 lg:mx-4 cursor-pointer"><img src="./assets/Atlassian.png" alt=""></li>
+                        <li class=" md:mx-3 lg:mx-4 cursor-pointer"><img src="./assets/Canon.png" alt=""></li>
+                        <li class=" md:mx-3 lg:mx-4 cursor-pointer"><img src="./assets/Walmart.png" alt=""></li>
+                        <li class=" md:mx-3 lg:mx-4 cursor-pointer"><img src="./assets/Amazon.png" alt=""></li>
+
+                    </ul>
+                </section>
+
+                    <!-- Section Ends here -->
+                    <!-- About Section Starts here -->
+
+                    <section class=" bg-cover bg-sky-800">
+
+                        <div class=" flex ">
+                            <h2 class=" text-white text-2xl px-3 py-4 text-center">High - Level Sales 
+                            <span class=" text-orange-400">Teams & Professionals</span>
+                            </h2>
+
+                            <p class=" text-white text-xs py-3 ">Circuit is flexible and affordable and offers you exceptional support to
+                               achieve your career goals. Circuit is a Global training provider based across
+                               the UK that specialises.</p>
+                        </div>
+
+                            <div class=" w-[100%] lg:w-11/12 mx-auto relative">
+                                <img src="./assets/team video BG.png" class=" w-full h-full object-cover" alt="">
+                                <img src="./assets/Play.png" class=" absolute top-[50%] left-[50%] -translate-x-[50%] w-12 h-12 lg:w-32 lg:h-32" alt="">
+                            </div>
+
+                    </section>
+                    <!-- Section ends here -->
+
+                    <!-- Beneficial Section Starts here -->
+
+                    <section class=" mx-3 py-6">
+                        <div class=" w-full flex flex-wrap justify-evenly items-center">
+                            <div class=" w-full flex-col p-3 m-4 md:w-56">
+                                <div class=" px-4 py-3 w-fit rounded-2xl bg-[#13485bfc] text-white"> Beneficial </div>
+                                <h2 class=" text-3xl font-semibold mt-6"> Beneficial Elements</h2>
+                                <p class=" mt-4">An awesome & powerful tools for your business, increase business revenue</p>
+                            </div>
+
+                            <div class=" flex flex-wrap gap-10">
+                                <div class=" rounded-xl m-7 p-4 bg-gray-300 flex flex-wrap w-full md:w-56">
+                                    <img src="./assets/Illust 1.png" class=" h-16" alt="">
+                                    <h2 class=" text-3xl font-semibold mt-6"> Happy Customers</h2>
+                                    <p class=" mt-4">Productive agents are happy agents. Give them all the 
+                                        support tools and information they need to best serve your customers.</p>
+
+                                </div>
+
+                                <div class=" flex flex-wrap gap-10">
+                                <div class=" rounded-xl m-7 p-4 bg-gray-300 flex flex-wrap w-full md:w-56">
+                                    <img src="./assets/Illust 2.png" class=" h-16" alt="">
+                                    <h2 class=" text-3xl font-semibold mt-6"> Best Integrations</h2>
+                                    <p class=" mt-4">Productive agents are happy agents. Give them all the support
+                                         tools and information they need to best serve your customers.</p>
+
+                                </div>
+
+                                <div class=" flex flex-wrap gap-10">
+                                <div class=" rounded-xl m-7 p-4 bg-gray-300 flex flex-wrap w-full md:w-56">
+                                    <img src="./assets/Illust 3.png" class=" h-16" alt="">
+                                    <h2 class=" text-3xl font-semibold mt-6"> Grow Without Problems</h2>
+                                    <p class=" mt-4">Productive agents are happy agents. Give them all the support
+                                         tools and information they need to best serve your customers.</p>
+
+                                </div>
+                            </div>
+                        </div>                
+                    </section>
+
+                    <!-- Beneficial Section Ends here -->
+                    <!-- Trial Section Starts here -->
+ <section class=" bg-[#070430ee] text-white md:h-8/12 relative flex flex-wrap">
+
+                        <div class=" md:left-11 lg:left-28 self-center mx-auto md:mx-0 md:absolute z-10 ">
+                            <h2 class=" mt-8 md:mt-0 mb-8 text-2xl md:text-3xl lg:text-5xl font-semibold">Take Your Customer<br>
+                                Service To The Next Level</h2>
+
+                        <div class=" flex flex-wrap items-center rounded-2xl bg-[#a69c14c8] w-fit mb-4 px-4 py-2">
+                        <span>Get 14 Days Free Trial</span>
+                        </div>
+                        <p class=" text-gray-500 mb-4 md:mb-0">No credit card required</p>
+                        </div>
+
+                        <div class=" w-full md:hidden">
+                            <img src="./assets/Decorations.png" class=" w-full" alt="">
+
+                        </div >
+
+                        <div class=" mt-16 ml-auto hidden md:block w-4/12">
+                            <img src="./assets/Decorations.png" class=" w-full" alt="">
+                        </div>
+
+</section>
+
+                        <!-- Trial Section Ends here -->
+
+                        <!-- Footer section starts here -->
+  <footer class=" flex flex-wrap  mt-5 mb-6 px-4 py-3 items-start justify-evenly gap-y-3 relative">
+                    <div>
+                        <img src="./assets/Logo.png" class=" h-auto w-auto" alt="">
+                        
+                        <div class=" flex items-center justify-evenly ">
+                            <i class=" text-gray-400 text-xl fa-brands fa-facebook"></i>
+                            <i class=" text-gray-400 text-xl fa-brands fa-instagram"></i>
+                            <i class=" text-gray-400 text-xl fa-brands fa-youtube"></i>
+                        </div>
+                        
+                    </div>
+
+                    <div class=" md:text-justify lg:w-4/12 px-4 md:px-8">
+                        <p>An awesome & poweful tools for your business, increase business revenue. with evaluating in depth variety
+                        of data sets and including the speed of tech adaptation we can build bridges between any companies and
+                        their customers</p>
+                    </div>
+
+                    <div>
+                        <h4 class=" text-xl mb-4 font-bold ">Home</h4>
+                        <ul class=" flex flex-col text-sm">
+                            <li>Features</li>
+                            <li>Solutions</li>
+                            <li>Resources</li>
+                            <li>Pricing</li>
+                        </ul>
+                    </div>
+
+                    <div>
+                        <h4 class=" text-xl mb-4 font-bold ">About Us</h4>
+                        <ul class=" flex flex-col text-sm">
+                            <li>Comapany</li>
+                            <li>Content</li>
+                            <li>Career</li>
+                        </ul>
+                    </div>
+
+                    <div class=" w-full flex bg-gray-200 flex-wrap justify-between items-start text-slate-400 mx-auto px-4 mt-4 py-4 gap-6 ">
+                        <div class=" order-3 lg:order-none text-center w-full lg:w-fit">
+                            ©2022 - 2023 TrustCo.
+                        </div>
+
+                        <div class=" text-xs gap-x-4 flex mx-auto px-4 py-5 lg:w-fit">
+                            <p>Terms of Service</p>
+                            <p>Privacy Policy</p>
+                            <p>Language</p>
+                        </div>
+
+                        <div class="order-2 lg:order-none w-full lg:w-fit text-center">
+
+                        <span><i class="fa-solid fa-globe"></i></span>
+                        <span>English</span>
+                        <span><i class="fa-sharp fa-solid fa-caret-down"></i></span>
+                        
+                         </div>
+                    </div>
+  </footer>                      
+</body>
+</html>
